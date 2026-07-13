@@ -23,7 +23,7 @@ folded_lc.bin(time_bin_size=0.01).plot(ax=ax, color='crimson', lw=2, label='Binn
 
 ax.set_title('Exoplanet Transit Detection: Kepler-10b', fontsize=14, fontweight='bold')
 ax.set_xlabel('Time Since Transit Midpoint (Days)', fontsize=12)
-ax.set_ylabel('Normalized Start Brightness (Flux)', fontsize=12)
+ax.set_ylabel('Normalized Star Brightness (Flux)', fontsize=12)
 ax.grid(True, linestyle='--', alpha=0.5)
 ax.legend(fontsize=11)
 
