@@ -1,0 +1,5 @@
+.venv/
+venv/
+.edia/
+_pycache_/
+*.pyc
